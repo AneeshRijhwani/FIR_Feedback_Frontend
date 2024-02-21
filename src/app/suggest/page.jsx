@@ -1,4 +1,4 @@
-import Suggestions from "@/Components/Suggestions";
+import Suggestions from "../../Components/Suggestions";
 import React from "react";
 
 const page = () => {

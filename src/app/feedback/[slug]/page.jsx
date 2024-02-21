@@ -1,5 +1,5 @@
 // import Chatbot from "@/Components/Chatbot";
-import Feedback from "@/Components/Feedback";
+import Feedback from "../../../Components/Feedback";
 import React from "react";
 
 const page = ({params}) => {

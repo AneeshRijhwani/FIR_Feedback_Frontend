@@ -1,5 +1,5 @@
 import React from "react";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"; // Import your actual tabs library
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "./ui/tabs";
 import AdminRequestedAppointments from "./AdminRequestedAppointments";
 import AdminConfirmedAppointments from "./AdminConfirmedAppointments";
 import AdminRegisterFIR from "./AdminRegisterFIR";

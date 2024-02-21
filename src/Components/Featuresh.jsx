@@ -1,4 +1,4 @@
-import { FEATURES } from "@/utils/constant";
+import { FEATURES } from "../utils/constant";
 import Image from "next/image";
 import React from "react";
 

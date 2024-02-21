@@ -1,4 +1,4 @@
-import AdminRegister from '@/Components/AdminRegister'
+import AdminRegister from '../../../Components/AdminRegister'
 import React from 'react'
 
 const page = () => {
